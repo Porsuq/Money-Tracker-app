@@ -1,0 +1,5 @@
+2;this is;76;test to check, if the whole thing, works.properly my G
+3;hahabomboclat;0.1;my bomboclat is 1 cent
+4;hahabomboclat;0.1;my bomboclat is 1 cent
+5;hahabomboclat;0.1;my bomboclat is 1 cent
+6;hahabomboclat;0.1;my bomboclat is 1 cent
